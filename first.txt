@@ -6,4 +6,7 @@ Git Command Notes:
 3. Add all  Files :- git add --a 
 4. Commit with message:- git commit -m "Initial Commit" 
 5. For git log :- git log 
-6. 
+6. Add Files:- git add name.ext
+7. For delete git repository:- rm-rf .git
+8. Present Working Directory:- pwd
+9. List Content(folder files list) :- ls
