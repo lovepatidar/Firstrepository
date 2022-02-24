@@ -1,3 +1,9 @@
-this is version 1 of my source code 
+Git Command Notes: 
 
-I want to do this into commit 
+
+1. for status:- git status
+2. For initiate :- git init
+3. Add all  Files :- git add --a 
+4. Commit with message:- git commit -m "Initial Commit" 
+5. For git log :- git log 
+6. 
