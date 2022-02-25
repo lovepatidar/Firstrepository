@@ -18,3 +18,6 @@ Git Command Notes:
 15. For Ignore Directory add this into gitignore file: Directoryname/
 16. Git File Diffrence(compare staging area to working directory):- git diff
 17. git Add files :- git add .
+18. Remove file from floder :- git rm file.ext
+19. Rename file :- git mv file.ext file_rename.ext 
+20. Dont Want track file anymore :-  git rm --cached file.ext 
