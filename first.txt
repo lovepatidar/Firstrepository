@@ -14,4 +14,5 @@ Git Command Notes:
 11. Git colne :- git clone https://github.com/tensorflow/data-validation.git
 12. Create New File :-  touch file.ext
 13. create gitignore file:-  touch .gitignore
-14. 
+14. for ignore ext wise all files :- update gitignore file with :-   *.log , *.txt
+15. For Ignore Directory add this into gitignore file: Directoryname/
