@@ -12,3 +12,6 @@ Git Command Notes:
 9. List Content(folder files list) :- ls
 10. Change Directory:- cd
 11. Git colne :- git clone https://github.com/tensorflow/data-validation.git
+12. Create New File :-  touch file.ext
+13. create gitignore file:-  touch .gitignore
+14. 
