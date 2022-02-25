@@ -21,3 +21,12 @@ Git Command Notes:
 18. Remove file from floder :- git rm file.ext
 19. Rename file :- git mv file.ext file_rename.ext 
 20. Dont Want track file anymore :-  git rm --cached file.ext 
+21. log with diffrence :- git log -p 
+22. log with last 3 changes :- git log -p -2 
+23. Short Summery of git commits Log:- git log --stat
+24. Show all commits in Oneline Formate:- git log --pretty=oneline
+25. Show all commuits in short :- git log --pretty=short 
+26. Show all commits with full details :- git log --pretty=full
+27. time filter in git log :- git log --since=2.days
+28. time filter in git log :- git log --since=2.months
+29. time filter in git log :- git log --since=2.years
