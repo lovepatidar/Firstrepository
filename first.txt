@@ -30,3 +30,4 @@ Git Command Notes:
 27. time filter in git log :- git log --since=2.days
 28. time filter in git log :- git log --since=2.months
 29. time filter in git log :- git log --since=2.years
+30. Change in old commit:- git commit --amend  (add or update escap then :wq+ enter)
