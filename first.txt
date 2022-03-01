@@ -31,7 +31,8 @@ Git Command Notes:
 28. time filter in git log :- git log --since=2.months
 29. time filter in git log :- git log --since=2.years
 30. Change in old commit:- git commit --amend  (add or update escap then :wq+ enter)
-
+31. Get Deleted data in file:-  git checkout --file.ext
+32. attach the working directory with last commit:- git checkout -f
 
 
 Remote Repository:-  
