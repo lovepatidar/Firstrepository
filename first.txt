@@ -31,3 +31,11 @@ Git Command Notes:
 28. time filter in git log :- git log --since=2.months
 29. time filter in git log :- git log --since=2.years
 30. Change in old commit:- git commit --amend  (add or update escap then :wq+ enter)
+
+
+
+Remote Repository:-  
+1. Remote :-  git remote 
+2. remote any origin:- git remote origin git@github.com:lovepatidar/Firstrepository.git
+3. check push pull url:-   git remote -v
+4. 
